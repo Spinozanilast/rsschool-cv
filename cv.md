@@ -1,4 +1,4 @@
-![Текст с описанием картинки](https://i.ibb.co/CKDy62v/132005602-204671924541586-8601427056853309991-n.jpg)
+![Silverhand Portret - My avatar](https://i.ibb.co/CKDy62v/132005602-204671924541586-8601427056853309991-n.jpg)
 # Budchanin Vadim
 -----------------------------------------------
 * Mails:
@@ -6,7 +6,7 @@
   * Inbox:                       vadim.budchanin@inbox.ru
   * List:                              vbudchanin@list.ru
 * Social:
-  * [VK](https://github.com/githubuser/superlongprojectname)  
+  * [VK](https://vk.com/spinozanilast)  
   * [Youtube](https://www.youtube.com/channel/UCqtqaziWPHAkK5xwEktgcaA)
   * [Instagram](https://www.instagram.com/spinozanilast/?hl=ru)
 -----------------------------------------------
@@ -34,6 +34,7 @@ Projects were developed in the following environments:
 
 # Code example (project ImageViewer)
 ## C# (WinForms)
+```cs
     private void CreatePalette()
         {
             thumbSize = 100;
@@ -83,8 +84,8 @@ Projects were developed in the following environments:
                 ColorDataView.Rows[j].Cells[4].Value = keyValueList[j].Key.B;
                 ColorDataView.Rows[j].Cells[5].Value = keyValueList[j].Value;
             }
-        } 
-                                                                    
+        }
+```            
 # As already mentioned, I have no work experience
 
 # Completed trainings / courses:
