@@ -91,7 +91,7 @@ Projects were developed in the following environments:
 # Completed trainings / courses:
   * [Version Control with Git from Epam.learn](https://learn.epam.com/detailsPage?id=601f195a-d408-4439-a16d-0630ed2a412e)
   * [Computer Science Basics](https://learn.epam.com/detailsPage?id=07464fe7-306f-4aa2-abdb-fb81ba509124)
-  * PowerBi
+  * PowerBi courses
     * [Model optimization for better performance in Power BI](https://learn.microsoft.com/ru-ru/training/modules/optimize-model-power-bi/)
     * [Introduction to creating measures with DAX in Power BI](https://learn.microsoft.com/ru-ru/training/modules/create-measures-dax-power-bi/)
     * [Designing a data model in Power BI](https://learn.microsoft.com/ru-ru/training/modules/design-model-power-bi/)
